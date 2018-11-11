@@ -8,5 +8,6 @@ What's next for this project?
 I hope to add some more features to this soon such as:
 
 *The ability to select a goal eg: gain weight, lose weight, clean bulk, lose fat while gaining muscle
+
 *The ability to select a different equation to calculate calories
 
