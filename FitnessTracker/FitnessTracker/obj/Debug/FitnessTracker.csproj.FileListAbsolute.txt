@@ -1,0 +1,11 @@
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csprojAssemblyReference.cache
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.manifest
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.application
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe.manifest
+C:\Users\michael.donnelly\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.application
